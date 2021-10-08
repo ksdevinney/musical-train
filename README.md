@@ -18,7 +18,7 @@ The bubble sort uses nested for loops to swap elements in an array. This allows 
 
 [Tutorial from Adam Coder](https://www.youtube.com/watch?v=CIomaG_PDvM)
 
-## Insertion Sort
+## [Insertion Sort](https://github.com/ksdevinney/musical-train/blob/main/insertion-sort.js)
 
 An insertion sort works by inserting a value in front of values that are larger. This type of sort will ignore the first value in an array (as it is sorted correctly at that moment) and compare the next value to the one before it. If the value is smaller than the previous value, it will be inserted in front of values that are larger. 
 
