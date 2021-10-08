@@ -12,8 +12,16 @@ This sorting algorithm orders an array of numbers by traversing through and swap
 
 [Tutorial from Justin Kim](https://www.youtube.com/watch?v=9jwm_9lOHu0)
 
-## Bubble Sort
+## [Bubble Sort](https://github.com/ksdevinney/musical-train/blob/main/bubble-sort.js)
 
 The bubble sort uses nested for loops to swap elements in an array. This allows larger numbers to "bubble" up to the end. Because this sort uses nested loops, it is one of the least efficient algorithms, with a complexity of O(n^2). 
 
 [Tutorial from Adam Coder](https://www.youtube.com/watch?v=CIomaG_PDvM)
+
+## Insertion Sort
+
+An insertion sort works by inserting a value in front of values that are larger. This type of sort will ignore the first value in an array (as it is sorted correctly at that moment) and compare the next value to the one before it. If the value is smaller than the previous value, it will be inserted in front of values that are larger. 
+
+[Programming with Mosh](https://www.youtube.com/watch?v=nKzEJWbkPbQ) - explanation + code in Java
+
+#### [Helpful Visualization](https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html)
