@@ -6,8 +6,14 @@ Search method that allows you to quickly search for an element in an array. By d
 
 [Tutorial from Leigh Halliday](https://www.youtube.com/watch?v=7lGiPItOVCM)
 
-## Selection Sort
+## [Selection Sort](https://github.com/ksdevinney/musical-train/blob/main/selection-sort.js)
 
 This sorting algorithm orders an array of numbers by traversing through and swapping values. The first traversal through the array, we will find the smallest value and swap it with the first element. On the next traversal, we will again look for the smallest value and swap it with the second element. This continues until the array is sorted.
 
 [Tutorial from Justin Kim](https://www.youtube.com/watch?v=9jwm_9lOHu0)
+
+## Bubble Sort
+
+The bubble sort uses nested for loops to swap elements in an array. This allows larger numbers to "bubble" up to the end. Because this sort uses nested loops, it is one of the least efficient algorithms, with a complexity of O(n^2). 
+
+[Tutorial from Adam Coder](https://www.youtube.com/watch?v=CIomaG_PDvM)
